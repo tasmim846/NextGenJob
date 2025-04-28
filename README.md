@@ -1,7 +1,7 @@
 # NextGenJob
 A student centric job placement system
 <br> 
-Author -sayma Sultana
+Author -Sayma Sultana
        -Fazley Rabbi
        -Tasmim Jahan Rimvy
        -Sadia afrin
